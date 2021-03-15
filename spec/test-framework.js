@@ -1,5 +1,7 @@
-const assertEquals = (value1, value2) => {
-    console.log(value1 === value2);
-}
+//const equals = (value1, value2) => value1 === value2;
 
-module.exports = assertEquals;
+//const assertEquals = (inputs, output) => {
+    //expect(equals(...inputs)).toBe(output);
+//};
+
+//module.exports = assertEquals, equals;
